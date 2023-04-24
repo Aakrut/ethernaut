@@ -4,6 +4,6 @@
 
 #### Don't Forget to leave ⭐ into the repository.
 
-### [ethernaut-challenge-00:Hello_Ethernaut](https://github.com/Aakrut/ethernaut/blob/main/00-Hello_Ethernaut.md)
+### [ethernaut challenge 00 : Hello Ethernaut](https://github.com/Aakrut/ethernaut/blob/main/00-Hello_Ethernaut.md)
 
 #### Don't Use This Codes in Production!
