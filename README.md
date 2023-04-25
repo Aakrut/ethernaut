@@ -7,5 +7,6 @@
 ### [ethernaut challenge 00 : Hello Ethernaut](./00-Hello_Ethernaut.md)
 ### [ethernaut challenge 01 : Fallback](./01-Fallback.md)
 ### [ethernaut challenge 02 : Fallout](./02-Fallout.md)
+### [ethernaut challenge 03 : Coin Flip](./03-Coin_Flip.md)
 
 #### Don't Use This Codes in Production!
