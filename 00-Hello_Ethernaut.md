@@ -1,5 +1,7 @@
 # Challenge 0
 
+<img src="./images/BigLevel0.svg" alt="0" >
+
 Solution : Challenge 0
 ---
 1. In this Challenge nothing but it will teach you how to interact with ABI.
@@ -18,4 +20,4 @@ it will give us the password as string. and you will see another authenticate it
 ```js
 await contract.authenticate("ethernaut0")
 ```
-make sure to hit the submit instance button to see if this Challenge Successful.
+make sure to hit the submit instance button to see if this Challenge Successful. 🎉

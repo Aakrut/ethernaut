@@ -1,5 +1,7 @@
 # Challenge 7
 
+<img src="./images/BigLevel7.svg" alt="7" >
+
 ```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;

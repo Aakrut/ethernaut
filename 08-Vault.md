@@ -1,5 +1,7 @@
 # Challenge 8
 
+<img src="./images/BigLevel8.svg" alt="8" >
+
 ```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
