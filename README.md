@@ -13,8 +13,8 @@
 ### [ethernaut challenge 06 : Delegation](./06-Delegation.md)
 ### [ethernaut challenge 07 : Force](./07-Force.md)
 ### [ethernaut challenge 08 : Vault](./08-Vault.md)
-### [ethernaut challenge 08 : Vault](./09-King.md)
-### [ethernaut challenge 08 : Vault](./10-ReEntrancy.md)
+### [ethernaut challenge 09 : King](./09-King.md)
+### [ethernaut challenge 10 : Re-Entrancy](./10-ReEntrancy.md)
 
 
 #### Don't Use This Codes in Production!
