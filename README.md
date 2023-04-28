@@ -16,6 +16,7 @@
 ### [ethernaut challenge 09 : King](./09-King.md)
 ### [ethernaut challenge 10 : Re-Entrancy](./10-ReEntrancy.md)
 ### [ethernaut challenge 11 : Elevator](./11-Elevator.md)
+### [ethernaut challenge 12 : Privacy](./12-Privacy.md)
 
 
 #### Don't Use This Codes in Production!
