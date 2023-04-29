@@ -18,7 +18,7 @@
 ### [ethernaut challenge 11 : Elevator](./11-Elevator.md)
 ### [ethernaut challenge 12 : Privacy](./12-Privacy.md)
 ### [ethernaut challenge 13 : GateKeeperOne](./13-GateKeeperOne.md)
-### [ethernaut challenge 13 : GateKeeperTwo](./14-GateKeeperTwo.md)
+### [ethernaut challenge 14 : GateKeeperTwo](./14-GateKeeperTwo.md)
 
 
 #### Don't Use This Codes in Production!
