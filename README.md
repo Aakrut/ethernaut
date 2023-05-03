@@ -21,6 +21,7 @@
 ### [ethernaut challenge 14 : GateKeeperTwo](./14-GateKeeperTwo.md)
 ### [ethernaut challenge 15 : NaughtCoin](./15-NaughtCoin.md)
 ### [ethernaut challenge 16 : Preservation](./16-Preservation.md)
+### [ethernaut challenge 17 : Recovery](./17-Recovery.md)
 
 
 #### Don't Use This Codes in Production!
