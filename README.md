@@ -22,6 +22,7 @@
 ### [ethernaut challenge 15 : NaughtCoin](./15-NaughtCoin.md)
 ### [ethernaut challenge 16 : Preservation](./16-Preservation.md)
 ### [ethernaut challenge 17 : Recovery](./17-Recovery.md)
+### [ethernaut challenge 18 : MagicNumber](./18-MagicNumber.md)
 
 
 #### Don't Use This Codes in Production!
