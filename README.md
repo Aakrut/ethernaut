@@ -24,6 +24,7 @@
 ### [ethernaut challenge 17 : Recovery](./17-Recovery.md)
 ### [ethernaut challenge 18 : MagicNumber](./18-MagicNumber.md)
 ### [ethernaut challenge 19 : AlienCodex](./19-AlienCodex.md)
+### [ethernaut challenge 20 : Denial](./20-Denial.md)
 
 
-#### Don't Use This Codes in Production!
+#### Don't Use This Codes in Production! All The Codes are Educational purpose Only.
