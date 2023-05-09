@@ -25,6 +25,7 @@
 ### [ethernaut challenge 18 : MagicNumber](./18-MagicNumber.md)
 ### [ethernaut challenge 19 : AlienCodex](./19-AlienCodex.md)
 ### [ethernaut challenge 20 : Denial](./20-Denial.md)
+### [ethernaut challenge 21 : Shop](./21-Shop.md)
 
 
 #### Don't Use This Codes in Production! All The Codes are Educational purpose Only.
