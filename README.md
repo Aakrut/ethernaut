@@ -1,8 +1,6 @@
 # ethernaut
 
-### [ethernaut](https://ethernaut.openzeppelin.com/) is a Web3/Solidity based wargame meant to be played in the EVM.
-
-#### Don't Forget to leave ⭐ into the repository.
+## [ethernaut](https://ethernaut.openzeppelin.com/) is a Web3/Solidity based wargame meant to be played in the EVM.
 
 ### [ethernaut challenge 00 : Hello Ethernaut](./00-Hello_Ethernaut.md)
 ### [ethernaut challenge 01 : Fallback](./01-Fallback.md)
