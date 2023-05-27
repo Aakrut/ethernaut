@@ -26,6 +26,7 @@
 ### [ethernaut challenge 21 : Shop](./21-Shop.md)
 ### [ethernaut challenge 22 : Dex](./22-Dex.md)
 ### [ethernaut challenge 23 : DexTwo](./23-DexTwo.md)
+### [ethernaut challenge 27 : Good Samaratin](./27-GoodSamaratin.md)
 ### [ethernaut challenge 28 : GateKeeperThree](./28-GateKeeperThree.md)
 ### [ethernaut challenge 29 : Switch](./29-Switch.md)
 
